@@ -20,7 +20,7 @@ Designed to run on `Ubuntu 20.04 LTS`, the simple_shell can be installed as foll
  * Run the executable either in interative mode `./hsh` or non-interactive mode `echo "pwd" | ./hsh`
 
 ### Examples
-Example of error with sh:
+Examples of error with sh:
 ```
 $ echo "qwerty" | /bin/sh
 /bin/sh: 1: qwerty: not found
